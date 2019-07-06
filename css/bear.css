@@ -12,6 +12,6 @@ html {
 
 @media screen and (max-width: 1270){
   #bear {
-    left: 1200;
+    left: 1200px;
   }
 }
