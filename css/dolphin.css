@@ -22,6 +22,6 @@ html {
 
 @media screen and (min-wdith: 1250px){
   #dolphin {
-    top: 100;
+    top: 100px;
   }
 }
