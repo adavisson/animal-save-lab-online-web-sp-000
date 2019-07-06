@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media screen and (min-width: 1330){
+@media (min-width: 1330){
   #ostrich {
     top: -50px;
   }
